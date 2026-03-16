@@ -1,0 +1,1 @@
+This project builds a Machine Learning model to predict whether a loan applicant is creditworthy or not, based on their financial history. It uses Logistic Regression — a classification algorithm widely used in the banking industry. The model is evaluated using 5 industry-standard metrics: Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
